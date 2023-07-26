@@ -1,2 +1,2 @@
 # familyTreeApp
-Family Tree application made by me and two other colleagues
+Family Tree application made by me and two other friends
